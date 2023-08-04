@@ -5,9 +5,9 @@
 <h1 align="center">I'm Alexey</h1>
 <h3 align="center">And I am a frontend developer from Belarus with a keen interest in creating web applications. I have experience in frontend development and try to constantly improve my skills. My main areas of expertise include HTML, CSS, JavaScript, TypeScript, React and Redux. I strive to create effective and beautiful user interfaces that deliver a positive user experience. Ready to take part in exciting projects and contribute to the world of web development.</h3>
 
-- 🔭 I’m currently **freelancing and working on various projects of my own.**
+- 🔭 I’m currently freelancing and working on various projects of my own.
 
-- 🌱 I am still actively learning **frontend development, but I am also showing interest in the backend development. So, I try to keep learning and expanding my knowledge in this area.**
+- 🌱 While I continue to focus on frontend development, I'm also nurturing a growing interest in backend development. Therefore, I am dedicated to continuous learning and expanding my knowledge in this field.
 
 <h3 align="left">Connect with me: https://t.me/unsuccessfulEverywhere </h3>
 <p align="left">
