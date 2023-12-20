@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/SheeetFace/SheeetFace/assets/93317676/a74188f9-9cdd-4da3-8545-00860fc5548a)
 
-<h1 align="center">I'm Alexey</h1>
+<img src='https://tenor.com/view/forsenpls-forsen-dance-pepe-jam-pepe-d-gif-14891650'><h1 align="center">I'm Alexey</h1><img src='https://tenor.com/view/forsenpls-forsen-dance-pepe-jam-pepe-d-gif-14891650'>
 <h3 align="center">And I am a frontend developer from Belarus with a keen interest in creating web applications. I have experience in frontend development and try to constantly improve my skills. My main areas of expertise include HTML, CSS, JavaScript, TypeScript, React and Redux. I strive to create effective and beautiful user interfaces that deliver a positive user experience. Ready to take part in exciting projects and contribute to the world of web development.</h3>
 
 - 🔭 I’m currently freelancing and working on various projects of my own.
