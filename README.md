@@ -9,7 +9,7 @@
 
 - 🌱 While I continue to focus on frontend development, I'm also nurturing a growing interest in backend development. Therefore, I am dedicated to continuous learning and expanding my knowledge in this field.
 
-<h3 align="left">Connect with me: https://t.me/unsuccessfulEverywhere </h3>
+<h3 align="left">Connect with me: https://t.me/NoIDontThinkSo </h3>
 <p align="left">
 </p>
 
