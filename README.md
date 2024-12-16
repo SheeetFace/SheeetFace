@@ -12,7 +12,7 @@ I'm Alexey
 ## ![banner](https://cdn.7tv.app/emote/01FYSFCB20000FQVENQBNM30Z4/1x.avif) ``` Skills ```
 ```yaml
 Frontend Development:
-  - HTML5 CSS3 Sass JavaScript TypeScript
+  - HTML5 CSS3 Sass Tailwind JavaScript TypeScript
 
 Frameworks:
   - React Next.js Electron
