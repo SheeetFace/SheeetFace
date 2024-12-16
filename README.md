@@ -36,7 +36,7 @@ Human Languages:
 
 ![banenr](https://cdn.7tv.app/emote/01FSNBAZ8G0007E5TN8YT2BHYM/1x.avif) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NoIDontThinkSo)  
 ![banenr](https://cdn.7tv.app/emote/01FSNBAZ8G0007E5TN8YT2BHYM/1x.avif) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheeetface333@gmail.com)                
- ![banenr](https://cdn.7tv.app/emote/01FSNBAZ8G0007E5TN8YT2BHYM/1x.avif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksey-basenko333/)
+ ![banenr](https://cdn.7tv.app/emote/01FSNBAZ8G0007E5TN8YT2BHYM/1x.avif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/333alexey333/)
 
 
 ---
