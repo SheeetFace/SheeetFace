@@ -23,6 +23,9 @@ State Management:
 Backend Development:
   - Node.js NestJS PostgreSQL Firebase
 
+Testing:
+  - Jest
+
 Tools:
   - Git Postman Figma Photoshop Illustrator
 
